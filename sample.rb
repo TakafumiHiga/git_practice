@@ -1,3 +1,4 @@
+msg = "はいさい"
 msg = "Hello World!"
 puts msg
 i
