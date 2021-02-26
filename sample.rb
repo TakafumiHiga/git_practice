@@ -1,3 +1,4 @@
+name = gets.chomp
 msg = "Hello"
 puts msg
 msg = "めんそーれ"
